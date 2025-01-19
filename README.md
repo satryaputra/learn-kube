@@ -1,2 +1,1 @@
-# Learn Kubernetes
-`id/ID`
+# Learn Kubernetes `id/ID`
